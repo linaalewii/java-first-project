@@ -9,7 +9,7 @@ public class Main {
                 Math.max(Math.max(a, b),
                         Math.max(c,d));
 
-        System.out.println("Максимум: " + maximum);
 
     }
+
 }
